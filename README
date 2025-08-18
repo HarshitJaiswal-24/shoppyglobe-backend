@@ -1,0 +1,21 @@
+# 🛒 E-Commerce ShoppyGlobe Backend (MERN Stack)
+
+This project is a simple **E-commerce ShoppyGlobe backend API** built with **Node.js, Express, and MongoDB**.  
+It includes **User Authentication, Product Management, and Cart Management** using RESTful APIs.
+
+
+## 🚀 Features
+- ✅ User Registration & Login with **JWT Authentication**  
+- ✅ Password hashing with **bcryptjs**  
+- ✅ CRUD operations for **Products**  
+- ✅ Add, Update, and Delete items from **Cart**  
+- ✅ Protected routes using **JWT Middleware**  
+
+---
+
+## 📦 Tech Stack
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB + Mongoose  
+- **Authentication**: JWT + bcryptjs  
+- **Tools**: Nodemon, MongoDB Compass  
+
