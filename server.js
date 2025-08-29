@@ -19,7 +19,7 @@ app.listen(3100, () => {
 });
 
 // ✅ Connect to MongoDB
-mongoose.connect("mongodb+srv://harshitrjaiswal:Harshit%4024@cluster0.bjvukco.mongodb.net/shoppyglobe");
+mongoose.connect("mongodb+srv://harshitrjaiswal:harshit04@cluster0.bjvukco.mongodb.net/shoppyglobe?retryWrites=true&w=majority");
 
 const db = mongoose.connection;
 
